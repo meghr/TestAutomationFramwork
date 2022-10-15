@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0e46598-5d9e-496e-abe7-4eb06df9f36a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/Order Checkout2022_10_15_16_17_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/Order Checkout2022_10_15_16_21_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/Order Checkout2022_10_15_16_23_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/Order Checkout2022_10_15_16_23_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/Order Checkout2022_10_15_16_24_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/Order Checkout2022_10_15_16_25_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/Order Checkout2022_10_15_16_28_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/Print dataTable info2022_10_15_16_24_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/empty password2022_10_09_16_50_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/empty password2022_10_09_17_03_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/empty password2022_10_09_17_09_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/empty password2022_10_09_17_12_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/valid login2022_10_09_16_50_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/valid login2022_10_09_16_53_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/valid login2022_10_09_16_58_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/failed/valid login2022_10_09_17_00_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/Order Checkout2022_10_15_16_28_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/Order Checkout2022_10_15_16_28_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/Print dataTable info2022_10_15_16_28_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/invalid login2022_10_09_17_03_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/invalid login2022_10_09_17_09_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/invalid login2022_10_09_17_12_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/user logout2022_10_15_16_50_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/user logout2022_10_15_16_54_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/valid login2022_10_09_17_03_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/valid login2022_10_09_17_09_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/valid login2022_10_09_17_12_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/valid login2022_10_15_16_46_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/pages/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/pages/CheckoutStepOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/pages/CheckoutStepTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/pages/InventoryItemPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/pages/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/runners/FailedRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/runners/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/steps/CheckoutSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/steps/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/steps/LogoutSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/testbase/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/testbase/PageInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/utils/CommonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/utils/ConfigsReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sharma/utils/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/configs/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Checkout.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Logout.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FtHErIhJQmsxJswtuNgQDKAZI1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Megh Raj/IdeaProjects/TestAutomationFramwork/src/test/resources/features",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Megh Raj\IdeaProjects\TestAutomationFramwork\src\test\resources\features" />
+      <recent name="C:\Users\Megh Raj\IdeaProjects\TestAutomationFramwork\src\test\java\com\sharma" />
+      <recent name="C:\Users\Megh Raj\IdeaProjects\TestAutomationFramwork\src\test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationFramwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sharma.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sharma.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.sharma.runners.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0e46598-5d9e-496e-abe7-4eb06df9f36a" name="Changes" comment="" />
+      <created>1665304354034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665304354034</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
